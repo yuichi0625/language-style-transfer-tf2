@@ -1,3 +1,8 @@
+Language Style Transfer for TensorFlow 2
+- Executed `2to3.py`
+- Replaced tensorflow import statements according to [the official migration guide](https://www.tensorflow.org/guide/migrate)
+- Solved some errors
+
 # Language Style Transfer
 This repo contains the code and data of the following paper:
 
